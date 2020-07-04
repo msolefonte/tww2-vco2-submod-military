@@ -2,26 +2,25 @@ local missions = {
     [[
  		mission
 		{
-			victory_type vco_victory_type_cultural;
+			victory_type vco_victory_type_military;
 			key wh_main_short_victory;
 			issuer CLAN_ELDERS;
 			primary_objectives_and_payload
 			{
 				objective
-                {
-                    type CONTROL_N_PROVINCES_INCLUDING;
-                    total 30;
-                }
-				objective
 				{
-					type RESEARCH_N_TECHS_OF_TYPE_X;
-					total 37;
+					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
+					total 150;
 				}
 				objective
 				{
-					type AT_LEAST_X_RELIGION_IN_ALL_PROVINCES;
-					total 51;
-					religion wh_main_religion_chaos;
+					type OWN_N_REGIONS_INCLUDING;
+					total 100;
+				}
+				objective
+				{
+					type OWN_N_UNITS;
+					total 160;
 				}
 
 				payload
@@ -34,3 +33,4 @@ local missions = {
 };
 
 return missions;
+

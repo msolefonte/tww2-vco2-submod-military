@@ -1,4 +1,4 @@
-# Cultural Victory Conditions
+# Military Victory Conditions
 
 Here places the list of objectives each faction has to achieve to obtain a cultural victory. These objective are 
 selected according to the race, which means all factions in the same race have the same cultural objectives. In
