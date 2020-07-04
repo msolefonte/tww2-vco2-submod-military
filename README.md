@@ -1,2 +1,3 @@
-# tww2-vco2-submod-military
-Military Victory Submod for VCO2
+# Military Victory Submod for VCO2
+
+TBD
