@@ -10,17 +10,17 @@ local missions = {
 				objective
 				{
 					type OCCUPY_LOOT_RAZE_OR_SACK_X_SETTLEMENTS;
-					total 150;
+					total 156;
 				}
 				objective
 				{
 					type OWN_N_REGIONS_INCLUDING;
-					total 100;
+					total 104;
 				}
 				objective
 				{
 					type OWN_N_UNITS;
-					total 160;
+					total 169;
 				}
 
 				payload
