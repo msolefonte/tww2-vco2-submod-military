@@ -1,19 +1,13 @@
 # Military Victory Conditions
 
-Military victory conditions should be quite similar, so all the factions have the same objectives to achieve it. The
-only exception are horde factions, which have to raze and loot more, as they can not hold settlements.
+Military victory conditions should be quite similar, so all the factions have the same objectives to achieve it.  In
+addition, only standard factions are going to have this kind of victory, which means it is not going to be available
+for horde factions.
 
 ## Conditions 
 
-### Normal factions
-
 * Occupy, loot, raze or sack 150 different settlements
 * Own 100 regions
-* Own 160 units
-
-### Horde factions
-
-* Raze or sack 200 settlements
 * Own 160 units
 
 ## Mods supported
