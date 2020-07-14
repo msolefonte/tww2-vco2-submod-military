@@ -1,7 +1,7 @@
 [img]https://i.imgur.com/fVVaDCS.gif[/img]
 
 [h2]Introduction[/h2]
-This mod brings back the Military Victory to the Mortal Empires campaign. It can work as a standalone mod or together with their brothers the [url=#]Main Mod[/url], the [url=#]Cultural Victory Submod[/url] and the [url=#]Economic Victory Submod[/url].
+This mod brings back the Military Victory to the Mortal Empires campaign. It can work as a standalone mod or together with their brothers the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2165815189]Main Mod[/url], the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2165815232]Cultural Victory Submod[/url] and the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2165815232]Economic Victory Submod[/url].
 
 [h2]New Victory Conditions[/h2]
 The objectives are based on the following pattern: Occupy, loot, raze or sack 150 different settlements; own 100 regions and own 160 units.
